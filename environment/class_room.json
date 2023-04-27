@@ -1,0 +1,47 @@
+[
+    {
+        "desc": "Door_1",
+        "x": 24,
+        "y": 2,
+        "z": 0,
+        "range": 20,
+        "heading_floor": -90,
+        "heading_ceiling": 0
+    },
+    {
+        "desc": "Door_2",
+        "x": 24,
+        "y": 2,
+        "z": 27.5,
+        "range": 20,
+        "heading_floor": 180,
+        "heading_ceiling": -90
+    },
+    {
+        "desc": "Projector",
+        "x": 12,
+        "y": 7.5,
+        "z": 13,
+        "range": 20,
+        "heading_floor": 0,
+        "heading_ceiling": 0
+    },
+    {
+        "desc": "Poster",
+        "x": 3.5,
+        "y": 7.5,
+        "z": 27.5,
+        "range": 10,
+        "heading_floor": 90,
+        "heading_ceiling": -90
+    },
+    {
+        "desc": "Exit Region",
+        "x": -1.5,
+        "y": 2,
+        "z": 25,
+        "range": 20,
+        "heading_floor": 90,
+        "heading_ceiling": 165
+    }
+]
